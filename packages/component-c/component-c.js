@@ -17,7 +17,6 @@ class ComponentC extends PolymerElement {
         }
       </style>
       <h2>Hello [[prop2]]!</h2>
-      <h2>Hello [[prop2]]!</h2>
     `;
   }
   static get properties() {
