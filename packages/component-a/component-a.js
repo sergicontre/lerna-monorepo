@@ -16,12 +16,12 @@ class ComponentA extends PolymerElement {
           display: block;
         }
       </style>
-      <h2>Hello [[prop1]]!</h2>
+      <h2>Hello [[propTest]]!</h2>
     `;
   }
   static get properties() {
     return {
-      prop1: {
+      propTest: {
         type: String,
         value: 'component-a',
       },
