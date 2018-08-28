@@ -1,6 +1,6 @@
 {
   "name": "component-b",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "main": "component-b.js",
   "dependencies": {
     "@polymer/polymer": "^3.0.0"
