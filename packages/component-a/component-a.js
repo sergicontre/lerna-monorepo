@@ -13,7 +13,7 @@ class ComponentA extends PolymerElement {
     return html`
       <style>
         :host {
-          display: block;
+          display: none;
         }
       </style>
       <h2>Hello [[propTest1]]!</h2>
