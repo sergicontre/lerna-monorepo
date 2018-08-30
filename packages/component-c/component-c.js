@@ -25,6 +25,10 @@ class ComponentC extends PolymerElement {
         type: String,
         value: 'component-c',
       },
+      prop3: {
+        type: String,
+        value: 'component-c',
+      }
     };
   }
 }
