@@ -22,7 +22,7 @@ class ComponentA extends PolymerElement {
     return {
       propTest: {
         type: String,
-        value: 'component-a',
+        value: 'component-a-test',
       },
     };
   }
